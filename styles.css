@@ -1,0 +1,45 @@
+body, .jumbotron {
+    background-color: rgba(50,50,50,.75)
+}
+
+ul {
+    list-style: none;
+    text-decoration: none;
+    color: rgba(75,75,75);
+}
+
+li {
+    text-decoration: none;
+    color: rgba(75,75,75);
+}
+
+a {
+    text-decoration: none;
+    color: rgba(75,75,75);
+}
+
+#greeting {
+    text-align: center;
+    font-family: 'Faster One', cursive;
+}
+
+#topRow {
+    margin-bottom: 20px;
+}
+
+#row1col3 {
+    text-align: right;
+}
+
+#row1col1 {
+    font-family: 'Megrim', cursive;
+    font-size: 2em;
+}
+
+/*
+font-family: 'Megrim', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Faster One', cursive;
+font-family: 'Bungee Shade', cursive;
+font-family: 'Monoton', cursive;
+*/
